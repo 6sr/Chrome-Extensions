@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "ChromeExtensionSR",
+    "description": "This first extension is built by SR!",
+    "version": "0.0",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "window.html"
+    },
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    }
+}

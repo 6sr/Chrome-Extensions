@@ -1,1 +1,3 @@
 # Chrome-Extensions
+- #### FirstChromeExtensionSR
+- #### NewTabSR
